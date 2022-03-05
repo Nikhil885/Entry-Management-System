@@ -141,7 +141,7 @@ TEXT_API=
 7.  Visit [http://localhost:3000]("http://localhost:3000") to view the application.
 
 ## Contact
--  Author: Amitesh Acharya
--  Email: amiteshacharya1@gmail.com
+-  Author: Nikhil Tripathi
+-  Email:  nikhiltripathi4044@gmail.com
 
 
