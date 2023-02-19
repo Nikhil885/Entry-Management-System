@@ -139,6 +139,6 @@ TEXT_API=
 
 ## Contact
 -  Author: Nikhil Tripathi
--  Email:  nikhiltripathi4044@gmail.com
+
 
 
